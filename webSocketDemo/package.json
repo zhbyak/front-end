@@ -1,0 +1,15 @@
+{
+  "name": "websocketserver",
+  "version": "1.0.0",
+  "description": "serverClient",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "zhbyak",
+  "license": "MIT",
+  "devDependencies": {
+    "websocket": "^1.0.24"
+  }
+}
